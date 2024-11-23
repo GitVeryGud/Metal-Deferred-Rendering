@@ -1,0 +1,13 @@
+# Blender 4.2.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl cottage_texture
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+map_Ka Cottage/CottageColor
+map_Kd Cottage/CottageColor
+map_Ks Cottage/CottageNormalMap
+map_bump Cottage/CottageSpecularMap
